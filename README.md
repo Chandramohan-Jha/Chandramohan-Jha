@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chandramohan-Jha&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandramohan-Jha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### DevCard
+## 📕My DevCard
 <a href="https://app.daily.dev/Chandramohan"><img src="https://api.daily.dev/devcards/e0a9740c481a4168a0fed4991991920f.png?r=e8f" width="300" height=400 alt="Chandramohan Jha's Dev Card"/></a>
 
 ### ✍️Random Dev Quote
