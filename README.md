@@ -1,4 +1,4 @@
-# Hi, I'm Chandramohan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Chandramohan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px" height="35px">
 
 # 💫About Me :
 - 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering.**
