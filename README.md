@@ -2,7 +2,7 @@
 
 # 💫About Me :
 - 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering.**
-- 🌱 I am currently learning **Python** and also interested in **Machine Learning.**
+- 🌱 I am currently learning **Web3** and also interested in **Machine Learning.**
 - 🎯 My Goal is to Contribute to as many **open source project** as possible.
 
 
